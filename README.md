@@ -8,3 +8,4 @@
 6. components->data_ingestion.py->Get data from DB to Df store in feature store, split data into train and test and store them
 7. Pipeline
 8. Demo.py->call pipeline
+10. Push after configuring Github with AWS
